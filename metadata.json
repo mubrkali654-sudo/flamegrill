@@ -1,0 +1,5 @@
+{
+  "name": "FlameGrill - Fast Food Ordering",
+  "description": "A high-converting, modern, mobile-first website for a global fast-food brand.",
+  "requestFramePermissions": ["geolocation"]
+}
